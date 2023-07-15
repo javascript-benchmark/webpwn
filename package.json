@@ -23,7 +23,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "co-sqlite3": "^0.1.3",
-    "common-tags": "^1.4.0",
+    "common-tags": "^1.8.2",
     "date-fns": "^1.28.4",
     "koa": "^2.2.0",
     "koa-better-static": "^1.0.5",
